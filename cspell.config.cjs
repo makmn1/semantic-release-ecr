@@ -6,6 +6,7 @@ module.exports = {
         cacheStrategy: 'content',
     },
     ignoreWords: [
+        'makmn',
         'biomejs',
         'filenaming',
         'rimac',
