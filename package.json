@@ -30,7 +30,6 @@
         "cm": "cz",
         "format": "turbo run format:all",
         "format:ts": "biome format --diagnostic-level=error .",
-        "postinstall": "husky",
         "lint": "turbo run lint:all",
         "lint:ts": "biome lint --diagnostic-level=error .",
         "lint:cspell": "cspell --no-progress --unique --no-summary '**'",
