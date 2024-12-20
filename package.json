@@ -12,7 +12,7 @@
     "bugs": {
         "url": "https://github.com/RimacTechnology/semantic-release-ecr/issues"
     },
-    "repository": "git@github.com:RimacTechnology/semantic-release-ecr.git",
+    "repository": "git@github.com:makmn1/semantic-release-ecr.git",
     "license": "MIT",
     "author": "Rimac Technology d.o.o.",
     "type": "module",
